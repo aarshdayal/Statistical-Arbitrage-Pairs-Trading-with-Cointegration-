@@ -1,7 +1,5 @@
 # Statistical Arbitrage Pairs Trading with Cointegration
 
-# Overview
-This repository contains a complete implementation of a statistical arbitrage pairs trading strategy based on cointegration. The project is designed for quantitative researchers, traders, and enthusiasts who want to understand and build a mean‑reversion strategy from scratch.
 
 [![Python 3.8+](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/downloads/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
