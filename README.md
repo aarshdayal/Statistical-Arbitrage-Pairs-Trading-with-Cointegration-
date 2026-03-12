@@ -10,10 +10,7 @@ A complete implementation of a pairs trading strategy that identifies cointegrat
 - [Data Sources](#data-sources)
 - [Methodology](#methodology)
 - [Results](#results)
-- [Repository Structure](#repository-structure)
-- [Installation & Usage](#installation--usage)
-- [Future Work](#future-work)
-- [License](#license)
+
 
 ## Overview
 Pairs trading is a market‑neutral strategy that exploits temporary price divergences between two historically correlated assets. This project:
